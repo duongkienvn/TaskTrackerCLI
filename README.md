@@ -20,22 +20,21 @@ A simple, lightweight Task Tracker application implemented in Java with a Comman
 - **Formatted Output:** Displays tasks in a clean, well-organized table format within the terminal.
 - **Minimal Dependencies:** No external libraries are used, ensuring the project is simple and lightweight.
 
-## 🚀 How to Run
+## Installation
 
-  1. Clone the repository:
+1. **Clone the repository:**
 
+   ```bash
+   git clone https://github.com/duongkienvn/TaskTrackerCLI.git
+   cd TaskTrackerCLI
+
+2. **Compile the source code:**
     ```bash
-    git clone https://github.com/duongkienvn/TaskTrackerCLI.git
-    cd TaskTrackerCLI
-    ```
-  2. Compile the source code:
-   ```bash
    javac TaskTrackerApp.java
-   ```
-  3. Run the application:
-   ```bash
+3. **Run the application:**
+    ```bash
    java TaskTrackerApp
-  ```
+   ```
 
 ## 📘 Usage Example
 
