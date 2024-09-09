@@ -26,7 +26,7 @@ A simple, lightweight Task Tracker application implemented in Java with a Comman
 
    ```bash
    git clone https://github.com/duongkienvn/TaskTrackerCLI.git
-   cd TaskTrackerCLI
+   cd TaskTrackerCLI/src/main/java
 
 2. **Compile the source code:**
     ```bash
